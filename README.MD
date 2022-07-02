@@ -21,8 +21,8 @@ I have created some popular recipe preparation here.
 
 ### ScreenShot
 
-![](ScreenShots\Main-page.png)
-![](ScreenShots\recipe-page.png)
+![](https://github.com/Aswinkumar20/SimplyRecipe/blob/main/ScreenShots/Main-page.png)
+![](https://github.com/Aswinkumar20/SimplyRecipe/blob/main/ScreenShots/recipe-page.png)
 
 ## My process
 
